@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-go build -o ./app main.go routes.go
+go build -o ./app ./cmd/server
